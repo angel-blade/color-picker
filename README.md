@@ -1,2 +1,1 @@
-# color picker
- 
+color picker с возможностью копирования значения
